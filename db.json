@@ -1,0 +1,30 @@
+
+{
+    "CPU": [
+        {"id":1, "nomes": "Intel i3 10100F", "valor": "R$489,00"},
+        {"id":2, "nomes": "Intel i5 12400F", "valor": "R$1089,99"},
+        {"id":3, "nomes": "Intel i7 10700F", "valor": "R$1620,00"},
+        {"id":4, "nomes": "Intel i9 10900F", "valor": "R$1999,99"},
+        {"id":5, "nomes": "AMD Ryzen 5700G", "valor": "R$1399,00"}
+    ],
+
+
+    "MOTHERBOARD": [
+        {"id":1, "nomes": "Asus TUF B450M", "valor": "R$700,00"},
+        {"id":2, "nomes": "ASRock B450M", "valor": "R$719,00"},
+        {"id":3, "nomes": "Gigabyte B550M", "valor": "R$849,00"},
+        {"id":4, "nomes": "Galax B450M", "valor": "R$599,00"},
+        {"id":5, "nomes": "Biostar B450MH", "valor": "R$489,00"}
+    ],
+
+
+    "GPU": [
+        {"id":1, "nomes": "GTX 1660 Super", "valor": "R$1339,00"},
+        {"id":2, "nomes": "RTX 2060", "valor": "R$1499,00"},
+        {"id":3, "nomes": "RTX 3060", "valor": "R$2099,99"},
+        {"id":4, "nomes": "RTX 3070", "valor": "R$3599,00"},
+        {"id":5, "nomes": "RTX 3080", "valor": "R$5999,00"} 
+      ]
+
+      
+  }

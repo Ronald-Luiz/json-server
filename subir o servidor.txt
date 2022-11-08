@@ -1,0 +1,10 @@
+subir servidor //////////////////
+
+
+npx json-server --watch db.json
+
+
+
+desligar no console//////////////////
+
+ctrl + C
